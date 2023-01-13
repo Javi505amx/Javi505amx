@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javi505amx" alt="javi505amx" /></a> </p>
 
-- 🔭 I’m currently working as [Software Developer at](https://www.linkedin.com/company/inventronics/)
+- 🔭 I’m currently working as Software Developer at [Inventronics](https://www.linkedin.com/company/inventronics/)
 
 - 🌱 I’m currently learning **Programming languages, Courses, Cook, Instruments**
 
