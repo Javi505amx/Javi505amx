@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **javiervp41@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/javier-villalvazo/](https://www.linkedin.com/in/javier-villalvazo/)
+- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/javier-villalvazo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
