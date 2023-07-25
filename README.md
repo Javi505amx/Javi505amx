@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javi505amx&label=Profile%20views&color=0e75b6&style=flat" alt="javi505amx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javi505amx" alt="javi505amx" /></a> </p>
-
+- 😎 Would you like to know more about me?...[Resume](https://flowcv.me/javier-villalvazo)
 - 🔭 I’m currently working as Software Developer at [Inventronics](https://www.linkedin.com/company/inventronics/)
 
 - 🌱 I’m currently learning **Programming languages, Courses, Cook, Instruments**
