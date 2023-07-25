@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javi505amx" alt="javi505amx" /></a> </p>
 
-- 😎 Would you like to know more about me?[Download my resume  here](https://flowcv.me/javier-villalvazo)
+- 😎 Would you like to know more about me?  [Download my resume  here](https://flowcv.me/javier-villalvazo)
 
 
 - 🔭 I’m currently working as Software Developer at [Inventronics](https://www.linkedin.com/company/inventronics/)
